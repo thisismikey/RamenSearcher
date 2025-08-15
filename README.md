@@ -6,6 +6,9 @@
 ![](images/Web3.png)
 ![](images/AndroidApp.png)
 
+專案計畫書和Demo: https://drive.google.com/drive/folders/1UDL15Iw0EItJe62iR7Oeu_1-OkCYleUk?usp=sharing
+
+
 ## 2. System Introduction:
 The search results are based on goole search result. To improve the search result, we make an formula to recaculate the page rank based on how many keywords appear in a webpage and their subpages. Each website in a search result are considered a tree structure. By web crawling every website (every tree), We can get a new rank list and it is how we generate a better search result related to Ramen.
 
